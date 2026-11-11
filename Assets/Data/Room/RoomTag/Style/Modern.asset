@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44da54a71b26cb6478c9490d0ca548eb, type: 3}
+  m_Name: Modern
+  m_EditorClassIdentifier: Assembly-CSharp::RoomTagData
+  tagId: STYLE_MODERN
+  tagName: Modern
+  tagGroup: Style
+  description: "Phong c\xE1ch hi\u1EC7n \u0111\u1EA1i, s\u1EED d\u1EE5ng \u0111\u01B0\u1EDDng
+    n\xE9t \u0111\u01A1n gi\u1EA3n v\xE0 n\u1ED9i th\u1EA5t ti\u1EC7n nghi."

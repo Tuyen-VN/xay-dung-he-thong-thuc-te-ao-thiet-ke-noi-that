@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 749281a3c5f9b664f9c6bbe8692f2bfa, type: 3}
+  m_Name: room_01
+  m_EditorClassIdentifier: Assembly-CSharp::RoomTemplateData
+  roomId: room_01
+  roomName: "Ph\xF2ng \u0111\u01A1n 1 gi\u01B0\u1EDDng 1 t\u1EE7 1 b\u1ED9 b\xE0n
+    gh\u1EBF"
+  roomPrefab: {fileID: 6272939009419230984, guid: c39d4833474f2604e9e8a2ccf9fcd0cd, type: 3}
+  roomTags:
+  - {fileID: 11400000, guid: 55d5321e200de154e9ecea1d9f2a2383, type: 2}
+  - {fileID: 11400000, guid: 39d23c5ade96b3e4fa53a80b26994d12, type: 2}
+  - {fileID: 11400000, guid: 4855df6a4f848b04b9100dd71a7d2996, type: 2}

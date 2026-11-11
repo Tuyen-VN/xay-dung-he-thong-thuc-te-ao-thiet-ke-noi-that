@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07e793009073aed47b07454d55333509, type: 3}
+  m_Name: Chair_01
+  m_EditorClassIdentifier: Assembly-CSharp::FurnitureData
+  furnitureId: Chair_01
+  furnitureName: "Gh\u1EBF g\u1ED7"
+  category: 3
+  styles: 01000000
+  materials: 00000000
+  colors: 02000000
+  width: 2
+  depth: 2
+  height: 1.2
+  furniturePrefab: {fileID: 2852950139411514895, guid: 1e33f9069b05f754dafc123225cd241c, type: 3}

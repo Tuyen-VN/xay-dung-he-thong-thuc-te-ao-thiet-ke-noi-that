@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07e793009073aed47b07454d55333509, type: 3}
+  m_Name: Bed_01
+  m_EditorClassIdentifier: Assembly-CSharp::FurnitureData
+  furnitureId: bed_01
+  furnitureName: "Gi\u01B0\u1EDDng \u0111\xF4i g\u1ED7"
+  category: 0
+  styles: 01000000
+  materials: 00000000
+  colors: 02000000
+  width: 1.6
+  depth: 2
+  height: 0.7
+  furniturePrefab: {fileID: 9057127811527483026, guid: 60e49e9de3f54854f8eedd3692994d33, type: 3}

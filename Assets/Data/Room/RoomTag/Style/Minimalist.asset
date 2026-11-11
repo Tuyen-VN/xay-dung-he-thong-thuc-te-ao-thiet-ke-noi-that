@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44da54a71b26cb6478c9490d0ca548eb, type: 3}
+  m_Name: Minimalist
+  m_EditorClassIdentifier: Assembly-CSharp::RoomTagData
+  tagId: STYLE_MINIMALIST
+  tagName: Minimalist
+  tagGroup: Style
+  description: "Phong c\xE1ch t\u1ED1i gi\u1EA3n, h\u1EA1n ch\u1EBF \u0111\u1ED3
+    \u0111\u1EA1c v\xE0 \u01B0u ti\xEAn kh\xF4ng gian tho\xE1ng."
